@@ -1,0 +1,8 @@
+C:\Users\SOURADIP\OneDrive\Desktop\CAMP(Capgemini)\Assignments\FindingRemainder\bin\Debug\FindingRemainder.exe.config
+C:\Users\SOURADIP\OneDrive\Desktop\CAMP(Capgemini)\Assignments\FindingRemainder\bin\Debug\FindingRemainder.exe
+C:\Users\SOURADIP\OneDrive\Desktop\CAMP(Capgemini)\Assignments\FindingRemainder\bin\Debug\FindingRemainder.pdb
+C:\Users\SOURADIP\OneDrive\Desktop\CAMP(Capgemini)\Assignments\FindingRemainder\obj\Debug\FindingRemainder.csproj.AssemblyReference.cache
+C:\Users\SOURADIP\OneDrive\Desktop\CAMP(Capgemini)\Assignments\FindingRemainder\obj\Debug\FindingRemainder.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOURADIP\OneDrive\Desktop\CAMP(Capgemini)\Assignments\FindingRemainder\obj\Debug\FindingRemainder.csproj.CoreCompileInputs.cache
+C:\Users\SOURADIP\OneDrive\Desktop\CAMP(Capgemini)\Assignments\FindingRemainder\obj\Debug\FindingRemainder.exe
+C:\Users\SOURADIP\OneDrive\Desktop\CAMP(Capgemini)\Assignments\FindingRemainder\obj\Debug\FindingRemainder.pdb
